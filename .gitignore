@@ -1,0 +1,7 @@
+*.[oa]
+*~
+*.so
+Makefile
+ChangeLog
+/pkg/
+/tmp/
